@@ -6,6 +6,7 @@ public class UserService {
 	}
 	
 	public void method2(String param){
+		istruzioneNuova
 		istruzioneCOnflittuale
 		istruzione2
 		istruzione3
