@@ -11,4 +11,10 @@ public class UserService {
 		istruzione3
 	}
 	
+	public void method3(String param){
+		istruzione1
+		istruzione2
+		istruzione3
+	}
+	
 }
